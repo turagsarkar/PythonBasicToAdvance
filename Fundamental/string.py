@@ -12,3 +12,6 @@ a = 'hello'
 print(len(a))
  
 print(a[0:4])
+
+print(a.upper())
+print(a.replace('hello','good'))
